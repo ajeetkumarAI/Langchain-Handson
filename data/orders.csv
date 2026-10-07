@@ -1,0 +1,6 @@
+order_id,customer_name,product,plan,status,amount_usd,order_date
+ORD-1001,Asha Verma,CloudDesk,Growth,Active,420,2026-08-12
+ORD-1002,Rahul Mehta,CloudDesk,Starter,Pending Payment,180,2026-09-02
+ORD-1003,Priya Nair,CloudDesk,Enterprise,Active,2520,2026-07-20
+ORD-1004,Karan Shah,CloudDesk,Growth,Cancelled,0,2026-06-15
+ORD-1005,Neha Joshi,CloudDesk,Starter,Refund Processing,180,2026-09-25

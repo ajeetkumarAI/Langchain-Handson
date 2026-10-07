@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# LangChain Hands-on: folders created while running the notebooks
+chroma_db/
+chroma_capstone/
+chat_histories/
+serve_app.py

@@ -1,0 +1,6 @@
+employee_id,name,department,designation,annual_leave_balance,sick_leave_balance,manager
+E101,Asha Verma,Engineering,Senior Engineer,14,10,Vikram Rao
+E102,Rahul Mehta,Sales,Account Executive,6,12,Sneha Kulkarni
+E103,Priya Nair,Engineering,Senior Manager,20,8,Vikram Rao
+E104,Karan Shah,Finance,Analyst,3,11,Meera Iyer
+E105,Neha Joshi,HR,HR Business Partner,18,12,Meera Iyer
